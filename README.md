@@ -6,7 +6,7 @@ Some fans and experts believe that Agatha Christie had undiagnosed dementia in h
 The goal of this project is to first replicate the findings of the paper using 70 of her novels instead of 14, and to dive deeper into analysis of her works.
 
 ## Data Source:
-Agatha Christie's novels were downloaded in the ePUB format from the internet archive. They were converted to TXT files using the program Calibre.
+Agatha Christie's novels were downloaded in the ePUB format from the internet archive. They were converted to TXT files using the program Calibre. 
 
 ## Findings:
 I was able to replicate the paper's findings.
